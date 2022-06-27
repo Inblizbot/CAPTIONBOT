@@ -4,8 +4,8 @@
 <h4 align='center'>Bot Used For Auto Caption For Telegram Files & Video With Custom Text<br><br><i>(Only in channels either public or private Telegram channel)</i> </h4><br>
 
 
-<h4 align='center'>✯ Demo Bot ✯<br></h4>
-<h3 align='center' ><b><a href="https://telegram.me/CapXBot">¢αρтισи вσт</a></b></h3>
+<h4 align='center'>✯ MESSAGE ME ✯<br></h4>
+<h3 align='center' ><b><a href="https://telegram.me/inbliz">SR</a></b></h3>
 
 
 ###  Config Vars :
@@ -35,4 +35,4 @@
 ```
 
 
-- [© Avishkar Patil](https://github.com/avipatilpro)
+- [© ⃯⃯⃑⃑ɪ ɴ ʙ ꪸʟꪲꪳ𐺬𑀸 ɪ ᴢ⃡ꪲ꪿ꪷꪰꪸ🇮🇳](https://github.com/TGEBOTZ)
